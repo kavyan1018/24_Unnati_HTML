@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+--> Document type html 
+
+<html lang="en">
+in html we use english lang.
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+how many types of dev 
+
+MOBILE dev
+     : mobile app :java
+
+
+WEB :
+    wesite :- webpages 
+
+    collectrion of multipl webpages it's call Website
+
+    static  web page
+    dynamic web page 
+
+-------------------------
+
+HTML MARKUP lang
+html only support 
+---------------------
+html 5 2014
+HYTML 4
+
+------------------------
+
+New file 
+
+.html 
+extensions throw save 
+
+---------------------------------
