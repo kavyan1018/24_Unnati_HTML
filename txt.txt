@@ -47,3 +47,34 @@ extensions throw save
 
 ---------------------------------
 
+tags 
+
+Heading tags
+h1 --> Max
+h2
+h3
+h4
+h5
+h6 --> Min
+
+center tag 
+
+what we want to print in the center that all the code we write in center tag
+
+<b> => bold
+<i> => italic
+<u> => underline
+<del> => delete
+<ins> => insert
+<sub> => subscript
+<sup> => superscript
+<mark> => Highlight
+<em> => emphasize(italic)
+<strong> => bold
+<big> => big
+<small> => small
+<strike> => strike through
+<q> => quote
+<blockquote> => blockquote
+    
+br ==> to break the contnu. line
